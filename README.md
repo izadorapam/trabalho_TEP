@@ -25,6 +25,3 @@ Aplicado para gerar explicações locais e globais, incluindo o summary plot par
 - Explicações locais com SHAP  
 - Explicação global com SHAP (summary plot)  
 - Ranking das 20 palavras mais importantes (LIME agregado x SHAP)  
-
-## Observações
-Este projeto possui caráter acadêmico e tem como objetivo o estudo de técnicas de classificação de textos e interpretabilidade em modelos de aprendizado de máquina.
