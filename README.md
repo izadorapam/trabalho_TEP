@@ -6,7 +6,7 @@ Projeto acadêmico desenvolvido na disciplina Tópicos Especiais em Programaçã
 ## Objetivo
 Construir um pipeline de classificação de textos utilizando técnicas de Processamento de Linguagem Natural e aplicar métodos de explicabilidade para compreender como o modelo toma decisões.
 
-## Pipeline de Classificação
+## Pipeline 
 1. Pré-processamento dos textos  
 2. Vetorização com Bag-of-Words e TF-IDF  
 3. Treinamento de modelos lineares  
