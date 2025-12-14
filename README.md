@@ -26,5 +26,5 @@ Aplicado para gerar explicações locais e globais, incluindo o summary plot par
 - Explicação global com SHAP (summary plot)  
 - Ranking das 20 palavras mais importantes (LIME agregado x SHAP)  
 
-## Link do Trabalho Completo:
-Mais detalhes no [vídeo explicativo]((https://drive.google.com/drive/folders/1mT0FmyrA461k8Vgt67zZNcFDfrwlyFmt?usp=sharing)).
+## Link do Trabalho Completo
+Mais detalhes no [vídeo explicativo](https://drive.google.com/drive/folders/1mT0FmyrA461k8Vgt67zZNcFDfrwlyFmt?usp=sharing).
